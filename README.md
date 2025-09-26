@@ -1,60 +1,72 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hello, I'm Lameck Oulo</h1>
-<h3 align="center">💻 Tech Enthusiast | 🛠️ Hardware & Software Specialist | 🌐 Networking Pro</h3>
+<h1 align="center">Hi 👋, I'm Oulo Lameck</h1>
+<h3 align="center">💻 Tech Enthusiast | 🎨 2D Animator | 🎶 Musician & Trainer</h3>
 
 ---
 
-<!-- Introduction -->
-✨ Welcome to my GitHub!  
-I’m passionate about **building, fixing, and optimizing technology** — from sleek web designs to complex network installations.  
-I love solving problems, sharing knowledge, and creating solutions that make life easier.  
+## 🙋‍♂️ About Me
+- 💻 Skilled in **HTML, CSS, Networking, Hardware & Software Repair**  
+- 📊 Proficient in **Microsoft Suite** (Word, Excel, PowerPoint, Publisher)  
+- 🎬 **2D Animator** passionate about creative and educational projects  
+- 🎶 **Music Trainer** (Vocals & Instruments – Piano, Brass, Drums, Guitar learner)  
+- 🚀 Growing in **Data Analysis & IT**  
 
 ---
 
-## 🚀 Skills & Expertise
+## 🛠️ Skills
 
-<p align="center">
-  <!-- Web Skills -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-  <!-- Networking -->
-  <img src="https://img.shields.io/badge/Networking-00C7B7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network_Installation-FF6F00?style=for-the-badge&logo=serverless&logoColor=white"/>
-  
-  <!-- Hardware & Software -->
-  <img src="https://img.shields.io/badge/Computer_Hardware-2E7D32?style=for-the-badge&logo=dell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software_Maintenance-3F51B5?style=for-the-badge&logo=windows&logoColor=white"/>
+### 💻 Tech & IT
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-green?logo=cisco&logoColor=white)
+![Hardware](https://img.shields.io/badge/PC%20Hardware-red?logo=windows&logoColor=white)
+![Software](https://img.shields.io/badge/Software%20Repair-purple?logo=linux&logoColor=white)
+
+### 📊 Microsoft Suite
+![Word](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
+![Publisher](https://img.shields.io/badge/Publisher-008272?logo=microsoft&logoColor=white)
+
+### 🎨 Creative
+![2D Animation](https://img.shields.io/badge/2D%20Animation-orange?logo=adobeaftereffects&logoColor=white)
+![Design](https://img.shields.io/badge/Graphic%20Design-blueviolet?logo=adobecreativecloud&logoColor=white)
+
+### 🎶 Music
+![Vocals](https://img.shields.io/badge/Vocals-ff69b4?logo=music&logoColor=white)
+![Instruments](https://img.shields.io/badge/Instruments-1DB954?logo=spotify&logoColor=white)
+![Piano](https://img.shields.io/badge/Piano-lightblue?logo=piano&logoColor=white)
+![Brass](https://img.shields.io/badge/Brass-goldenrod?logo=music&logoColor=white)
+![Drums](https://img.shields.io/badge/Drums-brown?logo=music&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+- 🎬 **BlackToonz Animations** – Animating Bible stories for all ages  
+- 📊 **Excel Dashboards** – Data analysis & reporting tools  
+- 🎶 **Music Training Content** – Choir arrangements & instrumental demos  
+
+---
+
+## 🌱 Currently Learning
+- Advanced **Microsoft Excel & Data Analysis**  
+- Expanding **2D Animation storytelling**  
+- Growing skills in **IT & Networking**  
+- Mastering more instruments (**Guitar & Saxophone**)  
+
+---
+
+## 📫 Connect with Me
+<p>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌟 Featured Projects
-
-📌 **[Smart Networking Setup Guide](#)** – A step-by-step tutorial for building efficient networks.  
-📌 **[PC Troubleshooting Toolkit](#)** – Scripts & docs for solving common hardware/software issues.  
-📌 **[Responsive Web Design Templates](#)** – Sleek, modern HTML/CSS templates that scale beautifully.  
-
-> _Check out more of my projects in the repositories section!_
-
----
-
-## 🎨 Fun & Creative
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Tech+is+my+playground;I+design+.+fix+.+innovate;Always+learning%2C+always+building;Let's+connect+and+collaborate!"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LameckOulo&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LameckOulo&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 💡 Quote I Live By
-> _“Technology is best when it brings people together.”_ – Matt Mullenweg  
-
----
-
-<h3 align="center">🌊 Let’s build, innovate, and grow together!</h3>
