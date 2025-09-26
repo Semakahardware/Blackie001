@@ -5,7 +5,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 💻 Skilled in **HTML, CSS, Networking, Hardware & Software Repair**  
+- 💻 Skilled in **HTML, CSS, Networking, Hardware & Software trouble shooting and repaire**  
 - 📊 Proficient in **Microsoft Suite** (Word, Excel, PowerPoint, Publisher)  
 - 🎬 **2D Animator** passionate about creative and educational projects  
 - 🎶 **Music Trainer** (Vocals & Instruments – Piano, Brass, Drums, Guitar learner)  
